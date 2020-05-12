@@ -1,0 +1,20 @@
+[TELEGRAM]
+token:
+url:
+chain: bitcoin
+
+[bitcoin]
+host:
+port:
+username:
+password:
+wallet:
+passphrase:
+
+[liquid]
+host:
+port:
+username:
+password:
+wallet:
+passphrase:
